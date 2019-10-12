@@ -60,6 +60,3 @@ git push --tags
 
 # publish it
 ./gradlew :lang:publish
-
-
-./gradlew clean build :lang:publish
