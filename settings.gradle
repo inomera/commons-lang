@@ -1,0 +1,4 @@
+rootProject.name = 'telco-commons-lang'
+
+include 'lang'
+project(':lang').name = 'lang'
