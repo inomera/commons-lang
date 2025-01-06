@@ -19,7 +19,8 @@ thread, future classes, methods, pagination, pattern matching and more
 
 | Artifact                   | Version                                                                                                                                                                                                                                    |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| lock-provider-api          | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang)                   |
+| commons-lang-2.0.2          | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang)                   |
+| commons-lang-1.1.1          | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang)                   |
 
 # Usage
 
