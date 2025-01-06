@@ -19,8 +19,8 @@ thread, future classes, methods, pagination, pattern matching and more
 
 | Artifact                   | Version                                                                                                                                                                                                                                    |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| commons-lang         | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/lang/badge.svg?version=2.0.2)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang)                   |
-| commons-lang          | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/lang/badge.svg?version=1.1.1)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang)                   |
+| commons-lang         | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/lang/badge.svg?version=2.0.2)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/lang)                   |
+| commons-lang          | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/lang/badge.svg?version=1.1.1)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/lang)                   |
 
 # Usage
 
