@@ -1,3 +1,8 @@
+# INFO
+This project is now being developed on GitHub. It is also published on the Central Maven Repository.
+
+Project URL -> https://github.com/inomera/commons-lang
+
 # Commons Lang
 
 Commons Lang provides a host of helper utilities for the java.lang API.
