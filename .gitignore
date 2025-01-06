@@ -1,3 +1,6 @@
+gradle.properties
+*.gpg
+
 .settings
 .project
 .classpath
