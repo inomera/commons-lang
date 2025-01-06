@@ -1,3 +1,11 @@
+# Commons Lang
+
+Commons Lang provides a host of helper utilities for the java.lang API.
+String, Date manipulation methods, scheduling helper classes, methods, 
+thread, future classes, methods, pagination, pattern matching and more
+
+# Publishing
+
 To publish a version to maven repository, 
 you should edit your local gradle.properties file.
 
