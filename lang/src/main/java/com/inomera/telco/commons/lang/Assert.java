@@ -40,11 +40,9 @@ import java.util.Map;
  *
  * <p>This class is similar to JUnit's assertion library. If an argument value is
  * deemed invalid, an {@link IllegalArgumentException} is thrown (typically).
- * For example:
- *
- * <pre class="code">
- * Assert.notNull(clazz, "The class must not be null");
- * Assert.isTrue(i > 0, "The value must be greater than zero");</pre>
+* For example:
+ * <pre class="code">Assert.notNull(clazz, "The class must not be null");</pre>
+ * <pre class="code">Assert.isTrue(i &gt; 0, "The value must be greater than zero");</pre>
  *
  * <p>Mainly for internal use within the framework; consider
  * <a href="http://commons.apache.org/proper/commons-lang/">Apache's Commons Lang</a>
