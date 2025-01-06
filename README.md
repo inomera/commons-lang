@@ -4,6 +4,13 @@ Commons Lang provides a host of helper utilities for the java.lang API.
 String, Date manipulation methods, scheduling helper classes, methods, 
 thread, future classes, methods, pagination, pattern matching and more
 
+# Compatibility Matrix
+
+| Commons Lang Version | Java Version |
+|----------------------|------------|
+| 1.X.X                | 1.8 >=     |
+| 2.X.X                | 17         |
+
 # Publishing
 
 To publish a version to maven repository, 
