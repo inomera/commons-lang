@@ -11,6 +11,43 @@ thread, future classes, methods, pagination, pattern matching and more
 | 1.X.X                | 1.8 >=     |
 | 2.X.X                | 17         |
 
+
+# Commons Lang
+
+![Build](https://github.com/inomera/commons-lang/workflows/Build/badge.svg)
+
+
+| Artifact                   | Version                                                                                                                                                                                                                                    |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| lock-provider-api          | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.inomera.telco.commons/commons-lang)                   |
+
+# Usage
+
+## With Maven
+
+```xml
+<dependency>
+  <groupId>com.inomera.telco.commons</groupId>
+  <artifactId>commons-lang</artifactId>
+  <version>2.0.2</version>
+</dependency>
+
+<dependency>
+  <groupId>com.inomera.telco.commons</groupId>
+  <artifactId>commons-lang</artifactId>
+  <version>1.1.1</version>
+</dependency>
+
+```
+
+## With Gradle
+
+```groovy
+implementation 'com.inomera.telco.commons:commons-lang:2.0.2'
+implementation 'com.inomera.telco.commons:commons-lang:1.1.1'
+```
+ 
+
 # Publishing
 To publish a version to maven repository, 
 you should edit your local gradle.properties file.
