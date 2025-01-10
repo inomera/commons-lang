@@ -24,3 +24,4 @@ MANIFEST.MF
 .idea
 *.iml
 .gradle/
+gradle.properties
