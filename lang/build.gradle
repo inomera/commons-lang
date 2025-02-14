@@ -6,6 +6,7 @@ apply from: "${rootProject.rootDir}/gradle/tests.gradle"
 apply from: "${rootProject.rootDir}/gradle/publishing.gradle"
 
 group = 'com.inomera.telco.commons'
+
 version = rootProject.file('VERSION').text.trim()
 sourceCompatibility = JavaVersion.VERSION_23
 targetCompatibility = JavaVersion.VERSION_23
