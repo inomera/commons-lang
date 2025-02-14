@@ -12,9 +12,10 @@ thread, future classes, methods, pagination, pattern matching and more
 # Compatibility Matrix
 
 | Commons Lang Version | Java Version |
-|----------------------|------------|
-| 1.X.X                | 1.8 >=     |
-| 2.X.X                | 17         |
+|----------------------|--------------|
+| 1.X.X                | 1.8 >=       |
+| 2.X.X                | 17           |
+| 3.X.X                | 23           |
 
 
 # Commons Lang
