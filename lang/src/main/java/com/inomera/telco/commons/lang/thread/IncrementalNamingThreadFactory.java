@@ -6,6 +6,14 @@ import org.slf4j.LoggerFactory;
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * ThreadGroup API Note:
+ * Thread groups provided a way in early Java releases to group threads and provide a form of job control for threads.
+ * Thread groups supported the isolation of applets and defined methods intended for diagnostic purposes.
+ * It should be rare for new applications to create ThreadGroups and interact with this API.
+ * use @IncrementalNamingVirtualThreadFactory
+ */
+@Deprecated
 public class IncrementalNamingThreadFactory implements ThreadFactory, Thread.UncaughtExceptionHandler {
 	private static final Logger LOG = LoggerFactory.getLogger(IncrementalNamingThreadFactory.class);
 
