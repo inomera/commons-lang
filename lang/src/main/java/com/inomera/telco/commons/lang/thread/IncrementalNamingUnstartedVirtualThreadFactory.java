@@ -9,14 +9,14 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * JDK 23 Virtual Thread supported Thread Factory
  */
-public class IncrementalNamingVirtualThreadFactory implements ThreadFactory {
+public class IncrementalNamingUnstartedVirtualThreadFactory implements ThreadFactory {
 
-    private static final Logger LOG = LoggerFactory.getLogger(IncrementalNamingVirtualThreadFactory.class);
+    private static final Logger LOG = LoggerFactory.getLogger(IncrementalNamingUnstartedVirtualThreadFactory.class);
 
     private final String threadNamePrefix;
     private final AtomicInteger threadCount = new AtomicInteger(0);
 
-    public IncrementalNamingVirtualThreadFactory(String threadNamePrefix) {
+    public IncrementalNamingUnstartedVirtualThreadFactory(String threadNamePrefix) {
         this.threadNamePrefix = (threadNamePrefix != null) ? threadNamePrefix : getDefaultThreadNamePrefix();
         LOG.debug("threadNamePrefix : {}", this.threadNamePrefix);
     }
